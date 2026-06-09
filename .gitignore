@@ -1,0 +1,38 @@
+# ── 模型权重（太大，GitHub限制100MB，用Git LFS或外部链接代替）──
+*.pth
+*.h5
+
+# ── 输出 & 临时文件 ──
+output/
+temp/
+logs/
+*.pyc
+__pycache__/
+
+# ── 配置文件（含本地路径）──
+config.json
+
+# ── Claude Code 内部文件 ──
+.claude/
+CLAUDE.md
+
+# ── PPT/文档（非代码，本地保留）──
+*.pptx
+论文草稿.md
+项目详细介绍.md
+PPT结构.md
+演讲稿.md
+ppt.txt
+scripts/
+
+# ── 第三方包 ──
+node_modules/
+
+# ── IDE ──
+.vscode/
+.idea/
+
+# ── Python ──
+*.egg-info/
+dist/
+build/

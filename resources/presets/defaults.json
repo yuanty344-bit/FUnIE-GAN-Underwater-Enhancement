@@ -1,0 +1,8 @@
+{
+  "presets": [
+    {"name": "original",  "brightness": 0.0, "contrast": 1.0, "saturation": 1.0, "sharpness": 1.0, "wb": 0.0, "gamma": 1.0},
+    {"name": "auto",      "brightness": 0.1, "contrast": 1.1, "saturation": 1.1, "sharpness": 1.0, "wb": 0.0, "gamma": 1.0},
+    {"name": "vivid",     "brightness": 0.1, "contrast": 1.3, "saturation": 1.4, "sharpness": 1.2, "wb": 0.0, "gamma": 1.1},
+    {"name": "soft",      "brightness": 0.05,"contrast": 0.9, "saturation": 0.9, "sharpness": 0.8, "wb": 0.0, "gamma": 0.95}
+  ]
+}
